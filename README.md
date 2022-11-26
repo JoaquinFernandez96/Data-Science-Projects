@@ -1,4 +1,4 @@
-# DigitalHouse
+# Proyectos de DigitalHouse
 #### Desafios de Data Science durante la cursada 2021/2022. Todos estos desafios fueron realizados de forma grupal.
 
 1. Desafio #1 y #2 - "Properati": Data Wrangling, exploración y modelado con datos de propiedades. 
